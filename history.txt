@@ -1,0 +1,398 @@
+    1  sudo get-apt
+    2  sudo apt-get update
+    3  sudo
+    4  sudo apt-get -y update
+    5  sudo apt-get chromium-browser
+    6  sudo apt install chromium
+    7  cd../
+    8  cd 
+    9  ls
+   10  ../
+   11  cd/
+   12  cd/.
+   13  reboot
+   14  sudo apt install snapd
+   15  sudo snap install code --classic
+   16  sudo apt-get chromium-browser
+   17  cd/
+   18  sudo apt get updates
+   19  sudo apt get upgrade
+   20  sudo apt-get upgrade
+   21  sudo apt-get update
+   22  sudo apt-get upgrade
+   23  sudo apt-get install chromium-browser
+   24  exit
+   25  sudo snap install intellij-idea-community --classic
+   26  $ git clone git://github.com/pbatard/rufus
+   27  whoami
+   28  sudo apt-get -y update
+   29  sudo apt-get -y install chromium-browser
+   30  vi
+   31  vi Beginner Linux Challenges
+   32  ls
+   33  pwd
+   34  ls
+   35  pwd
+   36  su
+   37  cd..
+   38  mkdir workspace
+   39  ls
+   40  cd workspace
+   41  ls
+   42  exit
+   43  ls
+   44  touch README.md
+   45  ls
+   46  cp README.md CHANGELOG.md
+   47  ls
+   48  touch excercise.md
+   49  mv excercise /tmp
+   50  mv excercise ../tmp
+   51  ls
+   52  ../
+   53  cd ../
+   54  ls
+   55  cd ../
+   56  ls
+   57  cd recruit
+   58  ls
+   59  cd home
+   60  ls
+   61  cd recruit
+   62  ls
+   63  touch exercise
+   64  ls
+   65  mv exercise /tmp
+   66  ls
+   67  cd ./
+   68  ls
+   69  cd /tmp
+   70  ls
+   71  exit
+   72  rm -rf /tmp/exercise
+   73  touch umuzi.md
+   74  touch recruits.md
+   75  touch cohort.md
+   76  ls
+   77  vi cohort.md
+   78  vi umuzi.md
+   79  vi recruits.md
+   80  cat umuzi.md cohort.md recruits.md > output
+   81  cat output
+   82  ls
+   83  cat umuzi.md cohort.md recruits.md > summary.md
+   84  echo "The End" > summary.md
+   85  cat summary.md
+   86  git status
+   87  git add .
+   88  git status
+   89  git rm --cached folder/README.md
+   90  git status
+   91  git add .
+   92  git commit -m "linux challenge commit"
+   93  git config --global user.email "samsthenjwa@gmail.com"
+   94  git config --global user.name "samsthenjwa"
+   95  git commit -m "linux challenge commit"
+   96  git push
+   97  git status
+   98  git add eli2.java
+   99  git status
+  100  git rm --cached eli2.java
+  101  git status
+  102  git add .
+  103  git status
+  104  git commit -m "2nd commit"
+  105  git status 
+  106  git remote add origin https://github.com/samsthenjwa/linux-chall.git
+  107  git status 
+  108  git push
+  109  git push -set-upstream origin master
+  110  git push --set-upstream origin master
+  111  ls
+  112  mkdir linux
+  113  cd linux/
+  114  touch README.md && vim README.md
+  115  touch README.md && nano README.md
+  116  ls
+  117  cat RAEDME.md
+  118  cat README.md
+  119  clear
+  120  git init
+  121  ls
+  122  code .
+  123  cd desktop
+  124  ls
+  125  cd Desktop
+  126  cd ..
+  127  find /umuzi.md -exec cp{} /search_result.md \;
+  128  find /umuzi -exec cp{} /search_result.md \;
+  129  find / -umuzi -exec cp{} /search_result.md \;
+  130  find / -umuzi.md -exec cp{} /search_result.md \;
+  131  locate umuzi.md
+  132  locate umuzi.md -exec cp ?
+  133  locate umuzi.md -exec cp{search_result.md}
+  134  clear
+  135  locate umuzi.md
+  136  cd Documents
+  137  touch pad.md
+  138  ls
+  139  cd ..
+  140  cd Desktop
+  141  cp pad.md pad_copy
+  142  cd ..
+  143  cd Documents
+  144  ls
+  145  cp pad.md pad_copy > /Desktop/work
+  146  cp pad.md pad_copy /Desktop/work
+  147  cd ..
+  148  Desktop
+  149  cd Desktop
+  150  ls
+  151  mkdir work
+  152  ls
+  153  cd ..
+  154  cd Documents
+  155  cp pad.md pad_copy /Desktop/work
+  156  cd Desktop
+  157  cd ..
+  158  cd Desktop
+  159  ls
+  160  work
+  161  cd work
+  162  cp pad.md copy_pad.md
+  163  cd ..
+  164  cd Documents
+  165  cp pad.md pad_copy /Desktop/work/
+  166  cp pad.md pad_copy home/Desktop/work/
+  167  cp pad.md pad_copy /home/Desktop/work/
+  168  clear
+  169  ls
+  170  cd ..
+  171  locate updatedb
+  172  locate pad.md
+  173  touch pad.md
+  174  locate pad.md
+  175  ls
+  176  rm -rf pad.md
+  177  ls
+  178  locate umuzi.md
+  179  cd Documents
+  180  locate pad.md
+  181  ls
+  182  locate pad
+  183  clear
+  184  ls
+  185  xd
+  186  cd
+  187  find ./recruit -name *.pdf
+  188  find ./~ -name *.pdf
+  189  find ./home/recruit -name *.pdf
+  190  find ./home/recruit/ -name *.pdf
+  191  find ./GFG -name *.pdf
+  192  find ./Desktop -name *.pdf
+  193  ls
+  194  cd ..
+  195  ls
+  196  find ./recruit -name *.pdf
+  197  cd ..clear
+  198  cd ~
+  199  nano my_bio.md
+  200  ls
+  201  cp locate *.pdf ~/Videos
+  202  cp locate *.pdf
+  203  find ./recruit -name *.pdf
+  204  find ./~ -name *.pdf
+  205  find . -type f -iname '*.pdf'
+  206  2. find . -type f -iname '*.pdf' ~Videos
+  207  2. find . -type f -iname '*.pdf' ~Documents
+  208  cd Videos
+  209  ls
+  210  cp find . -type f -iname '*.pdf'
+  211  cp -rf find . -type f -iname '*.pdf'
+  212  sudo apt install git
+  213  npm -v
+  214  node -v
+  215  sudo apt-get install nodejs
+  216  sudo apt-get install curl
+  217  cat /etc/apt/sources.list
+  218  rm -Rf /etc/texmf/texmf.d
+  219  apt-get purge tex-common
+  220  sudo apt-get purge tex-common
+  221  apt-get purge texlive
+  222  apt-get purge texlive-*
+  223  apt-get autoclean
+  224  dpkg --configure -a
+  225  sudo dpkg --configure -a
+  226  sudo apt remove 
+  227  sudo apt-get update
+  228  sudo apt-get upgrade
+  229  sudo apt install git
+  230  cd Desktop
+  231  git add
+  232  git clone https://github.com/samsthenjwa/Linux-Challenges.git
+  233  git add 
+  234  git status
+  235  git add Sambulo Ngema Answers
+  236  git.
+  237  ;ls
+  238  ls
+  239  cd Desktop
+  240  ls
+  241  rm -rf Linux-Challenges
+  242  ls
+  243  git remote add origin https://github.com/samsthenjwa/Linux-Challenges.git
+  244  git push -u origin master
+  245  git init
+  246  gitgit add Sambulo Ngema Answers
+  247  git add Sambulo Ngema Answers
+  248  git add Sambulo Ngema Answers.txt
+  249  git filter-branch --force --index-filter   'git rm -r --cached --ignore-unmatch public/photos'   --prune-empty --tag-name-filter cat -- --all
+  250  git reset --soft HEAD~2
+  251  ls
+  252  git clone https://github.com/samsthenjwa/Linux-Challenges.git
+  253  ls
+  254  cd Linux-Challenges
+  255  ls
+  256  git init
+  257  git add Sambulo Ngema Answers.txt
+  258  cd
+  259  ls
+  260  cd Desktop
+  261  mv Sambulo Ngema Answers.txt /Linux-Challenges
+  262  mv Sambulo Ngema Answers.txt ~/Desktop/Linux-Challenges
+  263  ls
+  264  cd Desktop
+  265  ls
+  266  cd Linux-Challenges
+  267  ls
+  268  git add *
+  269  ls
+  270  git status
+  271  git commit -m "commited"
+  272  git push
+  273  ls
+  274  cd Desktop
+  275  ls
+  276  mkdir git-basic-exercises
+  277  ls
+  278  cd git-basic-exercises
+  279  ls
+  280  la a
+  281  ls -a
+  282  git init
+  283  ls -a
+  284  git status
+  285  touch README.md
+  286  ls -a
+  287  git status
+  288  git log
+  289  git add
+  290  git status
+  291  git add *
+  292  git status
+  293  git-basic-exercises
+  294  git commit -m "initial commit"
+  295  git log
+  296  q
+  297  vi README.md
+  298  cat README.md
+  299  git status
+  300  git commit -m "second commit"
+  301  git add *
+  302  git commit -m "second commit"
+  303  ls
+  304  git status
+  305  git stats
+  306  git status
+  307  vi README.md
+  308  git status
+  309  git commit -m "Third commit"
+  310  git add
+  311  git add *
+  312  git commit -m "Third commit"
+  313  git log
+  314  git checkout commit f8fa4467c0a0898258d4db7d1025b108e39d4913
+  315  cat README.md
+  316  git checkout f8fa4467c0a0898258d4db7d1025b108e39d4913
+  317  cat README.md
+  318  git checkout master
+  319  cat README.md
+  320  dc Desktop
+  321  cd Desktop
+  322  ls
+  323  cd git-basic-exercises
+  324  ls
+  325  git branch
+  326  git branch milkshake-flavours
+  327  git branch 
+  328  vi milkshake-flavours.md
+  329  git branch chechout master
+  330  git branch
+  331  git checkout master
+  332  git branch
+  333  git checkout milkshake-flavours
+  334  sudo apt-get install wine-stable
+  335  sudo apt-get update
+  336  sudo apt-get install --install-recommends winehq-stable
+  337  ls
+  338  cd Desktop
+  339  ls
+  340  mkdir git-basic-exercises
+  341  ls
+  342  cd git-basic-exercises
+  343  ls
+  344  ls a
+  345  la
+  346  ls -a
+  347  git init
+  348  ls -a
+  349  git status
+  350  touch README.md
+  351  ls
+  352  ls -a
+  353  git status
+  354  git log
+  355  git add
+  356  git add README.md
+  357  git log
+  358  git add *
+  359  git log
+  360  git status
+  361  git commit -m "initial commit"
+  362  git log
+  363  vi README.md
+  364  git status
+  365  git commit -m "second commit"
+  366  git status
+  367  git add *
+  368  git commit -m "second commit"
+  369  vi README.md
+  370  git add *
+  371  git commit -m "third commit"
+  372  git log
+  373  git checkout bdb967bcdd401330fc6437d67368980331f09e95
+  374  cat README.md
+  375  git checkout master
+  376  cat README.md
+  377  git branch
+  378  branch milkshake-flavours
+  379  git branch milkshake-flavours
+  380  git branch
+  381  checkout milkshake-flavours
+  382  checkout master
+  383  git branch
+  384  checkout milkshake-flavours
+  385  git checkout milkshake-flavours
+  386  git branch
+  387  vi milkshakes.md
+  388  git status
+  389  git add milkshakes.md
+  390  git commit -m "added initial flavours"
+  391  git status
+  392  git log
+  393  git checkout master
+  394  git branch
+  395  git branch history
+  396  git checkout history
+  397  git log
+  398  history > history.txt
